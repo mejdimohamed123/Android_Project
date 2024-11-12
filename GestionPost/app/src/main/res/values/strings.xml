@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GestionPost</string>
+    <string name="post">Post</string>
+    <string name="title_of_your_post">title of your post</string>
+    <string name="add_button">add button</string>
+    <string name="velou">VELOU</string>
+    <string name="hammoudi_ayoub">Mejdi Mohammed</string>
+    <string name="title">Title</string>
+    <string name="friends_only">Friends Only</string>
+    <string name="description">Description</string>
+    <string name="descriptionn">Description</string>
+    <string name="back">Back</string>
+    <string name="privee">Private</string>
+    <string name="privet">Privet</string>
+    <string name="publique">Public</string>
+</resources>
